@@ -1,0 +1,11 @@
+HansoftServerAddress=localhost
+HansoftServerPort=50256
+Database=Company_projects
+SDKUserName=SDK DIE User
+SDKUserPassword=hpmadm
+ChartIDFilePath=/Users/<user>/Documents/DIE/ChartNames.txt
+OutputFolderPath=/Users/<user>/Documents/DIE//Charts/
+ResultSetToolPath=/Users/<user>/Documents/DIE/HPMResultSetTool
+OutputResolution=700 350 medium
+OutputFormat=png
+RefreshRate=10
