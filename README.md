@@ -6,14 +6,14 @@ Tool for extracting Hansoft dashboards as images.
 DIE is a command line tool for Windows or OS X for extracting dashboard charts from Hansoft as images. Typically this would be used in order to display dashboard charts on a webpage or similar.
 
 ###Terms and conditions
-DIE is licensed under a MIT License as stated in the LICENSE.md.
+DIE is licensed under a MIT License as stated in the [LICENSE.md].
 This tool is not port of the official Hansoft product or subject to its license agreement. The program is provided as is and there is no obligation on Hansoft AB to provide support, update or enhance this program.
 
-By downloading the pre-built packages of DIE you also accept the terms and conditions of the Hansoft Software Development Kit (.pdf).
+By downloading the pre-built packages of DIE you also accept the terms and conditions of the [Hansoft Software Development Kit (.pdf)].
 
 ###Building the program
-DIE can be built with the freely available Visual Studio Express 2013 for Desktop (Windows) or XCode (OSX). 
-You will need the Hansoft SDK to be able to build the program. You will have to include the HPMSdkCpp.h and HPMSdkCpp.cpp files in your build directory. You also need to reference the HPMSdk.x64.dll or .dylib.
+DIE can be built with e.g the freely available [Visual Studio Express 2013 for Desktop (Windows)] or [XCode (OSX)]. 
+You will need the [Hansoft SDK] to be able to build the program. Make sure to include the HPMSdkCpp.h and HPMSdkCpp.cpp files in your build directory. You also need to reference the HPMSdk.x64.dll or .dylib.
 
 ###Running
 A prebuilt version of DIE is also available for Windows and OSX (Click ‘View raw’ to download). The package includes the following files:
@@ -57,3 +57,10 @@ If a page ID is entered all charts on that page will be extracted.
 
 ###Other
 Any software that uses the Hansoft SDK should be run on a machine separate from the one hosting the Hansoft server.
+
+[LICENSE.md]:https://github.com/Hansoft/DashboardImageExtractor/blob/master/LICENSE
+[Hansoft Software Development Kit (.pdf)]:http://www.hansoft.com/wp-content/uploads/2013/06/SDKLA-final-28-Feb-2013-elektroniskt.pdf
+[Visual Studio Express 2013 for Desktop (Windows)]:https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx
+[XCode (OSX)]:https://developer.apple.com/xcode/downloads/
+[Hansoft SDK]:http://www.hansoft.com/en/support/downloads/
+
