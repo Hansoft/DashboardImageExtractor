@@ -59,7 +59,7 @@ If a page ID is entered all charts on that page will be extracted.
 Any software that uses the Hansoft SDK should be run on a machine separate from the one hosting the Hansoft server.
 
 ###Support
-For questions or problems you may contact drakir.nosslin@gmail.com. Help is on a availability basis only.
+For questions or problems you may contact drakir.nosslin@gmail.com. Help is provided on availability basis only.
 
 [LICENSE.md]:https://github.com/Hansoft/DashboardImageExtractor/blob/master/LICENSE.md
 [Hansoft Software Development Kit (.pdf)]:http://www.hansoft.com/wp-content/uploads/2013/06/SDKLA-final-28-Feb-2013-elektroniskt.pdf
