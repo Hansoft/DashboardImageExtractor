@@ -17,6 +17,7 @@ You will need the [Hansoft SDK] to be able to build the program. Make sure to in
 
 ###Running
 A prebuilt version of DIE is also available for [Windows] and [OSX] - Click ‘View raw’ to download. The package includes the following files:
+- DashboardImageExtractor
 -	An example config file, DIEConfigFile.txt
 -	An example ID file, ChartNames.txt
 -	HPMResultSetTool, otherwise found in the Hansoft SDK kit
