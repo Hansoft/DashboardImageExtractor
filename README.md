@@ -16,7 +16,7 @@ DIE can be built with e.g the freely available [Visual Studio Express 2013 for D
 You will need the [Hansoft SDK] to be able to build the program. Make sure to include the HPMSdkCpp.h and HPMSdkCpp.cpp files in your build directory. You also need to reference the HPMSdk.x64.dll or .dylib.
 
 ###Running
-A prebuilt version of DIE is also available for Windows and OSX (Click ‘View raw’ to download). The package includes the following files:
+A prebuilt version of DIE is also available for [Windows] and [OSX] (Click ‘View raw’ to download). The package includes the following files:
 -	An example config file, DIEConfigFile.txt
 -	An example ID file, ChartNames.txt
 -	HPMResultSetTool, otherwise found in the Hansoft SDK kit
@@ -66,4 +66,5 @@ For questions or problems you may contact drakir.nosslin@gmail.com. Help is on a
 [Visual Studio Express 2013 for Desktop (Windows)]:https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx
 [XCode (OSX)]:https://developer.apple.com/xcode/downloads/
 [Hansoft SDK]:http://www.hansoft.com/en/support/downloads/
-
+[OSX]:https://github.com/Hansoft/DashboardImageExtractor/blob/master/DIE%20-%20OSX.zip
+[Windows]:https://github.com/Hansoft/DashboardImageExtractor/blob/master/DIE%20-%20Windows.zip
