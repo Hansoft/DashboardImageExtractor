@@ -47,7 +47,7 @@ Relative paths can be used in the config file, e.g 'OutputFolderPath=./Charts/' 
 
 See ExampleConfig for a full example.
 
-DIE requires the full path to the configuration file as a command line argument when starting, e.g ‘DashboardsImageExtractor C:\DIE\DIEConfigFile.txt’
+DIE requires the path to the configuration file as a command line argument when starting, e.g ‘DashboardsImageExtractor C:\DIE\DIEConfigFile.txt’, relative paths can be used.
 
 When running DIE will first create image files of each chart defined in the ChartIDFile, after that it will update those images as determined by the refresh interval.
 
