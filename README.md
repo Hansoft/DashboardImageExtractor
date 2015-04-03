@@ -43,6 +43,8 @@ The configuration file for DIE requires the following settings:
 
 Each setting must be followed by a ‘=’, immediately followed by the setting value. No spaces are allowed before or after the ‘=’. E.g ‘HansoftServerAddress=localhost‘
 
+Relative paths can be used in the config file, e.g 'OutputFolderPath=./Charts/' to specify a directory 'Charts' located in the DIE run directory on OS X.
+
 See ExampleConfig for a full example.
 
 DIE requires the full path to the configuration file as a command line argument when starting, e.g ‘DashboardsImageExtractor C:\DIE\DIEConfigFile.txt’
