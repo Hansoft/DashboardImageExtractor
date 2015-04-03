@@ -52,7 +52,7 @@ DIE requires the path to the configuration file as a command line argument when 
 When running DIE will first create image files of each chart defined in the ChartIDFile, after that it will update those images as determined by the refresh interval.
 
 ###ChartIDFile settings
-In the ChartFile you specify which charts you want to extract. Input should be one chart or dashboard page ID per line. See the example ID if needed.
+In the ChartFile you specify which charts you want to extract. Input should be one chart or dashboard page ID per line. See the example ChartID file if needed.
 
 Incorrect IDs will be ignored.
 
