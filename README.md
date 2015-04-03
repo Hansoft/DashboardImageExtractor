@@ -25,6 +25,8 @@ A prebuilt version of DIE is also available for [Windows] and [OSX] - Click ‘V
 
 Only the HPMSdk.x64 file need to be placed in the run directory of DIE, but for ease of use you can place all files in the same directory. The prebuilt version is tested with Hansoft 8.3 and should work with later versions as well.
 
+DIE requires that you have a Hansoft license with the SDK module active as you use a Hansoft SDK user to extract data. For more information regarding the Hansoft SDK module see [here] or contact Hansoft support: support@hansoft.com.
+
 ###Configuration file settings
 The configuration file for DIE requires the following settings:
 - HansoftServerAddress – This is the DNS or IP to the Hansoft server.
@@ -69,3 +71,4 @@ For questions or problems you may contact drakir.nosslin@gmail.com. Help is prov
 [Hansoft SDK]:http://www.hansoft.com/en/support/downloads/
 [OSX]:https://github.com/Hansoft/DashboardImageExtractor/blob/master/DIE%20-%20OSX.zip
 [Windows]:https://github.com/Hansoft/DashboardImageExtractor/blob/master/DIE%20-%20Windows.zip
+[here]:http://www.hansoft.com/en/support/sdk-integrations
